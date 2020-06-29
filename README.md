@@ -1,5 +1,5 @@
-Project 1
-=======================
+Personal Project
+================
 Sudoku Solver
 
 Author: Nolan Hornby <nhornby@umich.edu>
@@ -14,7 +14,7 @@ $ g++ -std=c++11 solve.cpp -o solve.exe
 ./solve.exe < sudoku_in.txt > sudoku_out.txt
 ```
 
-# Example Input File ("sudoku_in.txt")
+## Example Input File ("sudoku_in.txt")
 ```console
 1 0 6 0 0 2 3 0 0
 0 5 0 0 0 6 0 9 1
@@ -27,7 +27,7 @@ $ g++ -std=c++11 solve.cpp -o solve.exe
 9 0 0 8 7 4 2 1 0
 ```
 
-# Example Output File ("sudoku_out.txt")
+## Example Output File ("sudoku_out.txt")
 ```console
 unsolved puzzle: 
 
