@@ -3,6 +3,7 @@ Personal Project
 Sudoku Solver
 
 Author: Nolan Hornby <nhornby@umich.edu>
+
 Date: Sunday, June 28 2020
 
 # Purpose
