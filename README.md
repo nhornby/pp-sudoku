@@ -1,4 +1,4 @@
-Project 7
+Personal Project
 =======================
 Sudoku Solver
 
