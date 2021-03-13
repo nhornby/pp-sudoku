@@ -1,6 +1,5 @@
-Personal Project
+Personal Project: Sudoku Solver
 =======================
-Sudoku Solver
 
 Author: Nolan Hornby <nhornby@umich.edu>
 
