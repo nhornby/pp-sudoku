@@ -3,7 +3,7 @@ Personal Project
 Sudoku Solver
 
 Author: Nolan Hornby <nhornby@umich.edu>
-Date: Wednesday, January 20 2021
+Date: Saturday, March 13th, 2021
 
 # Purpose
 This program uses tree recursion and "back-tracking" to solve sudoku puzzles. It takes in a file of strings representing sudoku puzzles, (left-to-right, top-to-bottom, in one line), where 0s represent blank spaces.
