@@ -13,6 +13,7 @@ This is an extremely lightweight solution to the below challenge:
 https://codegolf.stackexchange.com/questions/190727/the-fastest-sudoku-solver
 
 The average time for the "most difficult" (17-clue) sudoku puzzles is around 0.9 seconds of computation per puzzle.
+
 The average time for "typical" (25-clue) sudoku puzzles is less than 0.01 seconds 
 
 # Quick start
