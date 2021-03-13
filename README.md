@@ -9,6 +9,7 @@ Date: Saturday, March 13th, 2021
 This program uses tree recursion and "back-tracking" to solve sudoku puzzles. It takes in a file of strings representing sudoku puzzles, (left-to-right, top-to-bottom, in one line), where 0s represent blank spaces.
 
 This is an extremely lightweight solution to the below challenge:
+
 https://codegolf.stackexchange.com/questions/190727/the-fastest-sudoku-solver
 
 The average time for the hardest possible sudoku puzzles is around 0.9 seconds of computation per puzzle.
